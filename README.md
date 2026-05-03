@@ -32,10 +32,12 @@ To provide small libraries and individual book collectors with a free, easy-to-u
 - Cover image upload and display
 
 ## Project Structure
+```
 ├── BookManagerApi/     # Spring Boot backend
 ├── BookManagerVue/     # Vue.js frontend
 ├── Redis-64bit/        # Redis for Windows
 └── book_manager.sql    # Database initialisation script
+```
 
 ## Getting Started
 
