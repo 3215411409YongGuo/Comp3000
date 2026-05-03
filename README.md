@@ -6,6 +6,10 @@ A web-based library management system built for small libraries and personal boo
 
 This system provides a practical alternative to spreadsheet-based management and expensive enterprise solutions. It covers book cataloguing, borrowing tracking, user management, and includes an AI assistant for natural language queries.
 
+## Project Vision
+
+To provide small libraries and individual book collectors with a free, easy-to-use digital management system that delivers professional-level functionality without the cost and complexity of enterprise software. The system aims to replace error-prone manual methods with a reliable, real-time web application that any user can operate with minimal training.
+
 **Supervisor:** Dr. Haoyi Wang  
 **Student:** Yong Guo (10926839)  
 **Module:** COMP3000 Computing Project — University of Plymouth
