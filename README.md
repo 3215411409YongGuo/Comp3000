@@ -78,4 +78,4 @@ To provide small libraries and individual book collectors with a free, easy-to-u
 
 ## License
 
-This project is released under a Creative Commons licence for educational purposes.
+This project is released under the Creative Commons Zero (CC0) licence for educational purposes.
